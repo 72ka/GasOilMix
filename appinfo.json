@@ -1,0 +1,11 @@
+{
+  "id": "cz.72ka.gom",
+  "version": "0.0.1",
+  "vendor": "72ka",
+  "type": "web",
+  "main": "index.html",
+  "title": "Gas&Oil Mix",
+  "icon": "icon.png",
+  "splashicon": "icon-140x140.png",
+  "uiRevision": "2"
+}
